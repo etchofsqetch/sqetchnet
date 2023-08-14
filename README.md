@@ -7,9 +7,9 @@ Home folder is ~
 
 files will look like:
 
-
-~/.vimrc
-~/.zshrc
+~/.bashrc &nbsp;
+~/.vimrc &nbsp;
+~/.zshrc &nbsp;
 
 Don't forget to source the configuration file for the shell you are using in ~/.profile
 ie: source ~/.bashrc
